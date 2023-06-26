@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📧 Gmai **pratik.aneelam.97@gmail.com**
+- 📧 Gmail **pratik.aneelam.97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
