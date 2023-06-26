@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto: [pratik.aneelam.97@gmail.com]?subject= &body= " target="blank"><img align="center" src="https://pixlok.com/wp-content/uploads/2021/04/Gmail-Logo-PNG-1024x1024.jpg" alt="pratik-anand-982327163" height="25" width="35" /></a>
+<a href="mailto: pratik.aneelam.97@gmail.com?subject= &body= " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="pratik.aneelam.97@gmail.com" height="26" width="37" /></a>
 <a href="https://linkedin.com/in/pratik-anand-982327163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-anand-982327163" height="30" width="40" /></a>
 </p>
 
