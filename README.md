@@ -1,4 +1,4 @@
-![logo](https://github.com/pratikand7/pratikand7/blob/main/1.png)
+![logo](https://github.com/pratikand7/pratikand7/blob/main/Welcome%20To%20My%20Github%20profile.png)
 <h1 align="center">Hi 👋, I'm Pratik Anand</h1>
 <h3 align="center">A passionate Full-Stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
