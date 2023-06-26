@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="pratik.aneelam.97@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.idownloadblog.com/wp-content/uploads/2016/10/2000px-New_Logo_Gmail.svg_.png)" alt="pratik-anand-982327163" height="30" width="40" /></a>
+<a href="pratik.aneelam.97@gmail.com" target="blank"><img align="center" src="https://media.idownloadblog.com/wp-content/uploads/2016/10/2000px-New_Logo_Gmail.svg_.png" alt="pratik-anand-982327163" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratik-anand-982327163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-anand-982327163" height="30" width="40" /></a>
 </p>
 
